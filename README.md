@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Louis Langholtz (@louis-langholtz).
 - 👀 I’m interested in motivation theory based approaches to software, business, leadership, and interpersonal relationships.
-- Besides enjoying software development in languages like C++, I like a variety of physical activities and emersive D&D-like role playing games.
+- Besides enjoying software development in languages like C++, I like a variety of physical activities and immersive D&D-like role playing games.
 - 🌱 I’m currently learning about the human experience... every day of my life, haha! I'd like to think of myself as a proverbial old dog that's still learning new tricks.
 - 💞️ I’m looking to collaborate on software or business projects.
 - I'm also on [Stack Overflow](https://stackoverflow.com/users/7410358/louis-langholtz), other StackExchange sites like [Software Engineering](https://softwareengineering.stackexchange.com/users/263631/louis-langholtz), and some other social networking sites.

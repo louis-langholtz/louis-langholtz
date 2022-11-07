@@ -7,5 +7,5 @@
 - I'm outspoken about some things:
   - [C++: Please Don't Use std::endl!](https://gist.github.com/louis-langholtz/9959fbc735a23b631e7d795d4eb0839f).
   - [C++: My Love Affair With Polymorphic Value Types](https://gist.github.com/louis-langholtz/5da900c8333eed26641a09bea7aa5c31).
-  - [C++ private member functions aren't necessary](https://softwareengineering.stackexchange.com/a/430111), and I recommend avoiding them in favor of non-member non-friend functions.
+  - [C++ private member functions aren't necessary](https://softwareengineering.stackexchange.com/a/430111), consider non-member non-friend functions instead.
 - 📫 How to reach me: perhaps leave a comment near something I've said or done that you're more interested in. Hopefully that weeds out bots and leaves the people who have more sincere interest in contacting me. ;)

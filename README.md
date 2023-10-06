@@ -9,3 +9,5 @@
   - [C++: My Love Affair With Polymorphic Value Types](https://gist.github.com/louis-langholtz/5da900c8333eed26641a09bea7aa5c31).
   - [C++ private member functions aren't necessary](https://softwareengineering.stackexchange.com/a/430111), consider non-member non-friend functions instead.
 - 📫 How to reach me: leave a comment near something I've said or done that you're interested in. Hopefully that weeds out the bots and leaves the people who have more sincere interest in contacting me.
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=louis-langholtz&layout=compact)
